@@ -14,7 +14,15 @@ Check this guide on how to download or install: https://github.com/hpcclab/OaaS/
 
 == Quick Start with `ocli` on dev mode
 
-. Activate a virtual environment
+. Create a virtual environment.
++
+[source,bash]
+----
+python -m venv venv
+----
+
+
+. Activate a virtual environment.
 +
 [source,bash]
 ----
